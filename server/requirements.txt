@@ -1,3 +1,5 @@
 elasticsearch
-fastapi
+fastapi[standard]
 tqdm
+sentence_transformers
+torch
